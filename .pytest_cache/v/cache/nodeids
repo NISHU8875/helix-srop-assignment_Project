@@ -1,0 +1,14 @@
+[
+  "tests/test_api.py::test_account_query_routes_correctly",
+  "tests/test_api.py::test_create_session",
+  "tests/test_api.py::test_healthz",
+  "tests/test_api.py::test_knowledge_query_routes_correctly",
+  "tests/test_api.py::test_session_not_found",
+  "tests/test_api.py::test_session_not_found_returns_404",
+  "tests/test_api.py::test_trace_not_found",
+  "tests/test_retriever.py::test_chunker_empty_text",
+  "tests/test_retriever.py::test_chunker_preserves_sections",
+  "tests/test_retriever.py::test_chunker_produces_non_empty_chunks",
+  "tests/test_retriever.py::test_chunker_respects_overlap",
+  "tests/test_retriever.py::test_search_docs_returns_results_with_chunk_ids"
+]
